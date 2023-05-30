@@ -73,6 +73,8 @@ body{
     color: black;
     border: none;
     border-radius: 50%;
+    height: 30px;
+    width: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -95,5 +97,10 @@ body{
         position: relative;
         left: -15px;
         width: 95%;
+    }
+    #btn-ok{
+        border-radius: 50%;
+        height: 30px;
+        width: 30px;
     }
   }
